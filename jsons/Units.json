@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Boar Rider",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Pezantia",
+		"movement": 3,
+		"strength": 20,
+		"cost": 80,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": ["No defensive terrain bonus","Penalty vs City 33%","Bonus vs wounded units 33%"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	}
+]
