@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Pezantia",
+		"leaderName": "Mayor Calvin",
+		"adjective": ["Pezantites"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your people are too oppressed, tyrant, this was fated!",
+		"attacked": "How dare you put to siege a nation of the people?",
+		"defeated": "The poor toils again in the fields of oppressors...",
+		"introduction": "Greetings from Pezantia, how are you?",
+		
+		"neutralHello": "Oh, we don't do any noble rituals around here",
+		"hateHello": "He who steps on flowers, shall find the thorns biting back.",
+		
+		"tradeRequest": "Halt! We have come to trade goods with your fair peoples!",
+				
+		"outerColor": [63,40,24],
+		"innerColor": [211,134,82],
+		"unique": "MONUMENT_BUILDERS",
+		"cities": ["Armensport","Old Vale","Crowfort","Rusty Ville","Obsidian Creak","New Vale","Widefort","Wild Trails","Willowspring","Freeton",
+			"Crazepeak","Dreadpass","Scornsummit","Fairhallow","Onyxcrag","Prospector's Ford","Stark Glen","Crooklake","Silverflats","Crookchapel",
+			"Demonpost","Blackgorge","Shady Gate","Lonely Stead","Serenity Port","Wolf's Bank","Farstone","Wolfcrag","Grimeville","Littlestream",
+			"Bruisebanks","Eldermesa","Tanridge","Barrenburg","Goldenrise","Silent Port","Quicksprings","Badpoint","Grayhowl","The End"]
+	}
+]
