@@ -6,7 +6,7 @@
 		"cityStrength": 7,
 		"happiness": 2,
 		"production": 1,
-		"cost": 120,
+		"cost": 170,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry"
